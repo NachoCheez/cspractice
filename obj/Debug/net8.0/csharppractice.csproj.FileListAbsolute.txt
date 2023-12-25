@@ -1,0 +1,15 @@
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/bin/Debug/net8.0/csharppractice
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/bin/Debug/net8.0/csharppractice.deps.json
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/bin/Debug/net8.0/csharppractice.runtimeconfig.json
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/bin/Debug/net8.0/csharppractice.dll
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/bin/Debug/net8.0/csharppractice.pdb
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.AssemblyInfoInputs.cache
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.AssemblyInfo.cs
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.csproj.CoreCompileInputs.cache
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.sourcelink.json
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.dll
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/refint/csharppractice.dll
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.pdb
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/csharppractice.genruntimeconfig.cache
+/Users/dhruvbhattacharya/Desktop/Programming/csharppractice/obj/Debug/net8.0/ref/csharppractice.dll
